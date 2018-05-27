@@ -1,0 +1,2 @@
+# blognotes
+Anglar 6
